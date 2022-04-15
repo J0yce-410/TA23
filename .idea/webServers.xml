@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="53962173-233b-4fda-8503-9e9406e2f3db" name="FIT5120Wordpress" url="http://waws-prod-dm1-219.ftp.azurewebsites.windows.net">
+        <fileTransfer rootFolder="/site/wwwroot" host="waws-prod-dm1-219.ftp.azurewebsites.windows.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
